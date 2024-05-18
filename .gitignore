@@ -1,4 +1,4 @@
 # ignore ALL images in Training and Testing folder
 Testing/
 Training/
-image_csv/
+# image_csv/
