@@ -1,0 +1,12 @@
+pandas
+matplotlib
+seaborn
+opencv-python
+scikit-image
+imutils
+albumentations
+numpy
+scikit-learn
+tensorflow
+keras
+keras-tuner
