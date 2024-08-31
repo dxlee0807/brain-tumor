@@ -3,6 +3,8 @@
 ## Introduction
 This project involves developing deep-learning models to detect brain tumours from medical images. It includes various models such as CNN, DNN, EfficientNet, and Xception, each implemented using Jupyter Notebooks for training and evaluation.
 
+Dataset Link: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -16,11 +18,18 @@ This project involves developing deep-learning models to detect brain tumours fr
 ## Installation
 To set up the project, clone the repository and install the required dependencies:
 
-```bash
-git clone --branch main2 https://github.com/dxlee0807/brain-tumor.git
-cd brain-tumor
-pip install -r requirements.txt
-```
+1. Clone the repository:
+    ```bash
+    git clone --branch main2 https://github.com/dxlee0807/brain-tumor.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd brain-tumor
+    ```
+3. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Usage
 1. Preprocess the data by running the `preprocess.ipynb` notebook.
